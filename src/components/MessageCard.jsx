@@ -25,7 +25,7 @@ so feel free to customize it completely to fit your style.
 
 Happy Birthday! 🎉
 
-— [Your Name]`;
+— Golu`;
 
   // Handle page transitions
   useEffect(() => {
