@@ -105,7 +105,7 @@ function Countdown({ onBirthdayReached, birthdayReached }) {
         onClick={onBirthdayReached}
         title="Skip countdown and see celebration"
       >
-        🎉 Test Celebration
+        🎉Celebration
       </button>
       {/* ⚠️ END TEST BUTTON - DELETE UP TO HERE ⚠️ */}
     </section>
